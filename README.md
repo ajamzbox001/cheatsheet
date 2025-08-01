@@ -1,2 +1,2 @@
 # Cheat Sheet
-HTML Tables Cheat sheet - with Tag and Description
+HTML Tables Cheat Sheet - with Tag and Description
